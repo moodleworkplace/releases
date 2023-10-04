@@ -1,0 +1,8 @@
+*~
+/.patches/
+/.idea/
+.phpstorm.*
+/nbproject/
+CVS
+.DS_Store
+/.vscode/
